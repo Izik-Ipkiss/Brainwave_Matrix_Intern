@@ -11,6 +11,7 @@ __pycache__/
 # Virtual environment
 env/
 venv/
+solace_phishing_scanner.py
 
 # Operating system-specific files
 .DS_Store
