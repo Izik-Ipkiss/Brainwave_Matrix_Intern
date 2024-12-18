@@ -1,0 +1,28 @@
+# Python-specific ignores
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.env
+*.venv
+*.egg-info/
+*.log
+
+# Virtual environment
+env/
+venv/
+
+# Operating system-specific files
+.DS_Store
+Thumbs.db
+
+# IDE-specific files
+.vscode/
+.idea/
+
+# Sensitive data
+.env
+
+# Debugging files
+*.bak
+*.swp
